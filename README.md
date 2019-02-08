@@ -1,2 +1,0 @@
-# useEffectHookExample
-Created with CodeSandbox
