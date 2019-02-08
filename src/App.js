@@ -2,6 +2,8 @@ import React, { useState, useEffect } from "react";
 import TimerWrap from "./TimerWrap";
 import StyledButton from "./StyledButton";
 
+// Following useEffect section on https://www.robinwieruch.de/react-hooks/
+
 /* useEffect() hook is used for interactions with the
 Browser/DOM API or external APIs */
 
